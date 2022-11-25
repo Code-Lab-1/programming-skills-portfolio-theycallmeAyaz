@@ -1,6 +1,6 @@
 # Exercise 2: Favorite Book
 def favorite_book(title):
     """Display a message about your preferred book."""
-    print("This"+title +"is one of my favorite books.")
+    print(title +"is one of my favorite books.")
 
-favorite_book("Gone with the wind")
+favorite_book(" Gone with the wind ")
